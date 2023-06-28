@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "covid19srilanka"]
 	path = covid19srilanka
 	url = https://github.com/cran/covid19srilanka
-	shallow = true
-	registered = true
 [submodule "DSjobtracker"]
 	path = DSjobtracker
 	url = https://github.com/cran/DSjobtracker
-	shallow = true
-	registered = true
 [submodule "MedLEA"]
 	path = MedLEA
 	url = https://github.com/cran/MedLEA
-	shallow = true
-	registered = true
