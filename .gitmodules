@@ -11,6 +11,9 @@
 [submodule "covid19srilanka"]
 	path = covid19srilanka
 	url = https://github.com/cran/covid19srilanka
+[submodule "ditwahLandslide"]
+	path = ditwahLandslide
+	url = https://github.com/cran/ditwahLandslide
 [submodule "drone"]
 	path = drone
 	url = https://github.com/cran/drone
