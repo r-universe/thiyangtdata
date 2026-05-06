@@ -17,3 +17,6 @@
 [submodule "drone"]
 	path = drone
 	url = https://github.com/cran/drone
+[submodule "vegetablesSriLanka"]
+	path = vegetablesSriLanka
+	url = https://github.com/cran/vegetablesSriLanka
